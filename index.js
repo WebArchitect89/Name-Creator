@@ -3,7 +3,7 @@ import bodyParser from "body-parser";
 
 const app = express();
 const port = 3000;
-var currentYear = new Date().getFullYear();
+
 
 
 app.use(express.static("public"));
@@ -27,7 +27,7 @@ var randomName = adj[randomNumber1] + " " + noun[randomNumber2]
 res.render("index.ejs",{
 
   theName: randomName,
-  year: currentYear
+
 
 });
 
