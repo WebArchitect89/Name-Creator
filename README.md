@@ -1,4 +1,4 @@
-# [Name-Creator](https://webarchitect89.github.io/Dice--Game/)
+# [Name-Creator](https://webarchitect89.github.io/Name-Creator/)
 
 ![game-snipet](public/Screenshot%202023-12-23%20164508.png)
 
@@ -41,6 +41,8 @@ I would also use EJS templates, practice EJS tags, pass data to EJS templates an
 
 As a user you would want to create a random name from a noun and an adjective.
 
+Yhe app ir running on localhost:3000.
+
 
 ## Installation
 
@@ -54,6 +56,7 @@ In order to check the project out you can do the following:
 - Open it in VS Code.
 - Run "npm i"
 - Then run "node index.js"
+- Access localhost:3000 in your browser.
 
 ## Credits
 
